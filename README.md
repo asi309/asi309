@@ -20,3 +20,8 @@ Here are some ideas to get you started:
 > - 💬 Ask me about anything!
 
 >![Asidipta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asi309&show_icons=true&theme=cobalt)
+
+### Connect with me:
+<a href="https://www.linkedin.com/in/asidipta/">![LI](https://github.com/asi309/asi309/blob/master/social_icons/li.svg)</a> 
+<a href="https://www.instagram.com/_asiii80/">![IG](https://github.com/asi309/asi309/blob/master/social_icons/ig.svg)</a>
+<a href="https://www.facebook.com/asidipta.chaudhuri.7">![FB](https://github.com/asi309/asi309/blob/master/social_icons/fb.svg)</a> 
