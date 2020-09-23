@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 > - 👯 I’m looking to collaborate on projects.
 > - 💬 Ask me about anything!
 
+Let's Collaborate or just talk!
+
 >![Asidipta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asi309&show_icons=true&theme=cobalt)
 
 ### Connect with me:
