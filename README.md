@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <img align="left" alt="HTML5" width="60px" src="https://github.com/asi309/asi309/blob/master/tool_icons/html5.png" />
 <img align="left" alt="CSS3" width="60px" src="https://github.com/asi309/asi309/blob/master/tool_icons/css3.png" />
 <img align="left" alt="JavaScript" width="60px" src="https://github.com/asi309/asi309/blob/master/tool_icons/js.png" />
-<img align="left" alt="React" width="60px" src="https://github.com/asi309/asi309/blob/master/tool_icons/react.png" />
+<img align="left" alt="React" width="80px" src="https://github.com/asi309/asi309/blob/master/tool_icons/react.png" />
 <img align="left" alt="Node" width="60px" src="https://github.com/asi309/asi309/blob/master/tool_icons/node.png" />
 <img align="left" alt="Git" width="60px" src="https://github.com/asi309/asi309/blob/master/tool_icons/git.png" />
 <img align="left" alt="GitHub" width="60px" src="https://github.com/asi309/asi309/blob/master/tool_icons/github.png" />
