@@ -25,10 +25,15 @@ Let's Collaborate or just talk!
 >![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asi309&theme=cobalt)
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/asidipta/">![LI](https://github.com/asi309/asi309/blob/master/social_icons/li.svg)</a> 
-<a href="https://www.instagram.com/_asiii80/">![IG](https://github.com/asi309/asi309/blob/master/social_icons/ig.svg)</a>
-<a href="https://www.facebook.com/asidipta.chaudhuri.7">![FB](https://github.com/asi309/asi309/blob/master/social_icons/fb.svg)</a> 
-<a href="https://dev.to/asi309"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="24px" width="24px" /></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/asidipta/"><img src="https://skillicons.dev/icons?i=linkedin" align="left" /></a>
+  <a href="https://www.instagram.com/_asiii80/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<!-- <a href="https://dev.to/asi309"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="24px" width="24px" /></a> -->
+</p>
+
+### Blogs:
+<a href="https://dev.to/asi309">![DEV](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)</a>
+<a href="https://letsdiscusstech.hashnode.dev">![HASHNODE](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)</a>
 
 
 ### Languages and Tools I use: 
@@ -40,6 +45,8 @@ Let's Collaborate or just talk!
 <img align="left" alt="React" width="80px" src="https://github.com/asi309/asi309/blob/master/tool_icons/react.png" />
 <img align="left" alt="Node" width="60px" src="https://github.com/asi309/asi309/blob/master/tool_icons/node.png" />
 <img align="left" alt="Git" width="60px" src="https://github.com/asi309/asi309/blob/master/tool_icons/git.png" />
-<img align="left" alt="GitHub" width="60px" src="https://github.com/asi309/asi309/blob/master/tool_icons/github.png" />
+<img align="left" alt="GitHub" width="60px" src="https://skillicons.dev/icons?i=github" />
+
+
 
 [![@asi309's Holopin board](https://holopin.io/api/user/board?user=asi309)](https://holopin.io/@asi309)
