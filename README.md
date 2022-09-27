@@ -27,7 +27,7 @@ Let's Collaborate or just talk!
 ### Connect with me:
 <a href="https://www.linkedin.com/in/asidipta/">![LI](https://github.com/asi309/asi309/blob/master/social_icons/li.svg)</a> 
 <a href="https://www.instagram.com/_asiii80/">![IG](https://github.com/asi309/asi309/blob/master/social_icons/ig.svg)</a>
-<a href="https://www.facebook.com/asidipta.chaudhuri.7">![FB]()</a> 
+<a href="https://www.facebook.com/asidipta.chaudhuri.7">![FB](https://github.com/asi309/asi309/blob/master/social_icons/fb.svg)</a> 
 <a href="https://dev.to/asi309"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="24px" width="24px" /></a>
 
 
